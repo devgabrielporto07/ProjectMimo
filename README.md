@@ -10,7 +10,7 @@ Este projeto faz parte da minha jornada de evolução como desenvolvedor — reg
 
 ## 🚀 Acesse o projeto
 
-🔗 [Clique aqui para acessar o repositório]()
+🔗 [Clique aqui para acessar o repositório](https://devgabrielporto07.github.io/ProjectMimo/)
 
 
 
@@ -35,8 +35,6 @@ Este projeto é aberto e pode ser utilizado livremente para fins educacionais e 
 ## 👨‍💻 Autor
 
 Feito por **Gabriel Porto** — estudante de Ciência da Computação na UNINASSAU
-
-🔗 [Acesse meu GitHub](https://github.com/SEU_USUARIO)
 
 
 ## 📧 Contato
